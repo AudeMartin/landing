@@ -1,0 +1,29 @@
+.cards {
+  /* position:relative; */
+  background-color: white;
+  border-radius: 5px;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  /* box-shadow: 0 0 15px rgb(0 0 0 / 20%); */
+  margin: 30px auto;
+}
+
+.card {
+  /* position: relative; */
+  margin: 10px auto;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+  text-align: center;
+  font-family: 'Kalam', cursive;
+  font-size: 14px;
+  margin:0;
+  width:150px;
+  height: 200px;
+  padding: 8px;
+}
+
+.card > img {
+  height: 100px;
+  width: 100px;
+  /* object-fit: cover; */
+}

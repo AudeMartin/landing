@@ -1,0 +1,15 @@
+.footer {
+  background-color: #676855;
+  height: 100px;
+  padding: 10px;
+  text-align: center;
+}
+.footer i {
+  color: white;
+
+}
+.footer p {
+  font-family: 'Kalam', cursive;
+  font-size: 14px;
+  color: white;
+}

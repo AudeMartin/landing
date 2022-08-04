@@ -1,0 +1,33 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://images.unsplash.com/photo-1510027580951-31747e2371a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+  background-size: cover;
+  background-position:bottom;
+  border-radius: 5px;
+  height: 300px;
+  padding: 50px;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+  color: white;
+  font-size: 24 px;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgb(0 0 0 / 20%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px auto;
+}
+
+.banner h1 {
+  text-align: center;
+  font-family: 'Courgette', cursive;
+}
+.banner p {
+  text-align: center;
+  font-family: 'Kalam', cursive;
+  font-size: 26px;
+}
+
+.banner a {
+  font-size: 16px;
+  font-weight: lighter;
+  text-align: center;
+}
